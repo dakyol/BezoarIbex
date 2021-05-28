@@ -1,5 +1,3 @@
-# Example Package
+# BezoarIbex: A python module for creating mathematical models of physical concepts.
 
-This is a simple example package from [PyPA packaging-projects](https://packaging.python.org/tutorials/packaging-projects/). You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+BezoarIbex is a **Python** package that provides fundamental components for modeling physical theories mathematically.

@@ -10,16 +10,16 @@ setuptools.setup()
 #    long_description = fh.read()
 
 #setuptools.setup(
-#    name="example-pkg-YOUR-USERNAME-HERE",
+#    name="BezoarIbex",
 #    version="0.0.1",
-#    author="Example Author",
-#    author_email="author@example.com",
-#    description="A small example package",
+#    author="Özgür Deniz Akyol",
+#    author_email="dakyol@pm.me",
+#    description="A python module for creating mathematical models of physical concepts.",
 #    long_description=long_description,
 #    long_description_content_type="text/markdown",
-#    url="https://github.com/pypa/sampleproject",
+#    url="https://github.com/dakyol/BezoarIbex",
 #    project_urls={
-#        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+#        "Bug Tracker": "https://github.com/dakyol/BezoarIbex/issues",
 #    },
 #    classifiers=[
 #        "Programming Language :: Python :: 3",
